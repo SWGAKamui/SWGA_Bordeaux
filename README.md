@@ -2,6 +2,8 @@
 
 Application android pour l'association SWGA
 
+Lien Playstore (Bientôt)
+
 
 <img src="https://github.com/SWGAKamui/SWGA_Bordeaux/blob/master/Screenshot/Menu_Frag.png" width="144px" height="256px" />
 <img src="https://github.com/SWGAKamui/SWGA_Bordeaux/blob/master/Screenshot/Accueil_Frag.png" width="144px" height="256px" />
