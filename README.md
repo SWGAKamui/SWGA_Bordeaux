@@ -4,7 +4,6 @@ Application android pour l'association SWGA
 
 Lien Playstore (https://play.google.com/store/apps/details?id=eu.swga.kinda.swgabordeaux)
 
-
 <img src="https://github.com/SWGAKamui/SWGA_Bordeaux/blob/master/Screenshot/Menu_Frag.png" width="144px" height="256px" />
 <img src="https://github.com/SWGAKamui/SWGA_Bordeaux/blob/master/Screenshot/Accueil_Frag.png" width="144px" height="256px" />
 <img src="https://github.com/SWGAKamui/SWGA_Bordeaux/blob/master/Screenshot/Asso_Frag.png" width="144px" height="256px" />
